@@ -1,3 +1,3 @@
-# transcriber
+# NickTheBlade's Transcriber
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/nickangel1/transcriber)
+A speech to text web app able to transcribe user's speech in realtime. Start recording tapping the mic icon, stop the mic to transcribe. Only english language supported atm.
